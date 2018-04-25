@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../appmonitor/admin/admin.iml" filepath="$PROJECT_DIR$/../appmonitor/admin/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appmonitor/appmonitor.iml" filepath="$PROJECT_DIR$/../appmonitor/appmonitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appmonitor/eureka/eureka.iml" filepath="$PROJECT_DIR$/../appmonitor/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appmonitor/feign/feign.iml" filepath="$PROJECT_DIR$/../appmonitor/feign/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appmonitor/server/server.iml" filepath="$PROJECT_DIR$/../appmonitor/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appmonitor/zuul/zuul.iml" filepath="$PROJECT_DIR$/../appmonitor/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
